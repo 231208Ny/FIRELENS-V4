@@ -1,0 +1,5 @@
+Total analyzed records: 12,809
+Regional groups: 2
+Satellite sensors: 2
+Date range: 2024-08-01 to 2024-10-31
+FRP observations: 12,809

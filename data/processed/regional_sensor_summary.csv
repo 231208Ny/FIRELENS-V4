@@ -1,0 +1,7 @@
+study_region,sensor,satellite,detection_records
+Central_Kalimantan_approx,MODIS,Aqua,1930
+Central_Kalimantan_approx,MODIS,Terra,159
+Central_Kalimantan_approx,VIIRS,N20,7941
+Riau_approx,MODIS,Aqua,411
+Riau_approx,MODIS,Terra,200
+Riau_approx,VIIRS,N20,2168

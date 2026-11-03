@@ -1,0 +1,4 @@
+sensor,satellite,product,records,missing_latitude,missing_longitude,invalid_coordinates,missing_date
+MODIS,Aqua,MODIS_C6.1,11365,0,0,0,0
+MODIS,Terra,MODIS_C6.1,3126,0,0,0,0
+VIIRS,N20,J1_VIIRS_C2_375m,73753,0,0,0,0

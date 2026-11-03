@@ -1,0 +1,6 @@
+acquisition_date,acquisition_time_hhmm,latitude,longitude,frp,brightness,bright_t31,confidence_raw,confidence_scheme,daynight,source_file
+2024-08-26,656,-1.3461,103.9058,216.2,355.4,292.3,70,MODIS_numeric_0_100,D,modis.csv
+2024-08-26,656,-1.3433,103.925,341.0,369.6,290.3,75,MODIS_numeric_0_100,D,modis.csv
+2024-08-26,656,-1.3494,103.8939,57.1,326.9,292.5,63,MODIS_numeric_0_100,D,modis.csv
+2024-08-26,656,-1.3467,103.9131,479.2,381.5,293.6,75,MODIS_numeric_0_100,D,modis.csv
+2024-08-26,656,-1.344,103.9322,204.3,353.9,289.7,85,MODIS_numeric_0_100,D,modis.csv

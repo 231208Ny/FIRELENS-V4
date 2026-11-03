@@ -1,0 +1,4 @@
+satellite,acquisition_time_hhmm,detection_records,mean_frp,median_frp,maximum_frp,mean_distance_km
+Aqua,656,5,259.56,216.2,479.2,1.31
+N20,617,19,67.2,52.98,190.56,1.2
+N20,1858,5,7.46,7.59,7.59,1.15

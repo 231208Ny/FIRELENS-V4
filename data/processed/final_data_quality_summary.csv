@@ -1,0 +1,8 @@
+quality_check,affected_records,percentage,status
+duplicate_detection_id,0,0.0,PASS
+invalid_coordinates,0,0.0,PASS
+missing_frp,0,0.0,PASS
+non_positive_frp,0,0.0,PASS
+invalid_date,0,0.0,PASS
+invalid_time,0,0.0,PASS
+sensor_satellite_mismatch,0,0.0,PASS

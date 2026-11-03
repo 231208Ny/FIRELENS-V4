@@ -1,0 +1,1 @@
+detection_record_id,latitude,longitude,acquisition_date,acquisition_time_hhmm,sensor,satellite,product,brightness,frp,scan,track,bright_t31,confidence_raw,confidence_scheme,daynight,type_code_raw,version,source_file,coordinate_valid,study_region,study_region_label,acquisition_date_parsed,quality_issues
